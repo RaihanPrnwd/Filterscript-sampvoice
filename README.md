@@ -1,4 +1,4 @@
-/*
+
 ===========================================================
 Repository: sampvoice-fs-indonesia
 
@@ -36,4 +36,3 @@ NB:
 - Hanya file .amx yang dibagikan. Jika butuh fitur khusus, silakan request/DM ke penulis.
 - Silakan share/ubah, wajib sertakan kredit pembuat.
 ===========================================================
-*/
